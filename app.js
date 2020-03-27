@@ -1,6 +1,5 @@
 console.log('nodejs...')
 
-
 function promise() {
     const flag = false
     return flag
@@ -12,7 +11,6 @@ function promise() {
 const haed = () =>{
     console.log('seconde..')
 }
-
 
 if(promise()) {
     setTimeout(() => {
