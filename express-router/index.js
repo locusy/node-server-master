@@ -2,7 +2,7 @@
  * @Author: tzz
  * @Date: 2020-03-28 13:16:52
  * @LastEditors: tzz
- * @LastEditTime: 2020-03-28 19:27:16
+ * @LastEditTime: 2020-03-28 19:28:02
  */
 // const express = require('express')
 const express = require('./express')
@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/users', (req, res) => {
-    res.end(JSON.stringify([{name: 'xiaoming'}]))
+    res.end(JSON.stringify([{name: 'WO'}]))
 })
 
 app.listen(9999, () => {
