@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/locusy/node-server-master/issues"
   },
-  "homepage": "https://github.com/locusy/node-server-master#readme"
+  "homepage": "https://github.com/locusy/node-server-master#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
