@@ -4,6 +4,7 @@ function promise() {
     const flag = false
     return flag
 }
+
 // promise().then(() => { 
 //     haed()
 // })
