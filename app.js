@@ -8,7 +8,6 @@ function promise() {
 const haed = () =>{
     console.log('seconde..')
 }
-
 if(promise()) {
     setTimeout(() => {
         console.log('time out...')
