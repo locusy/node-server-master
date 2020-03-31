@@ -5,10 +5,6 @@ function promise() {
     return flag
 }
 
-// promise().then(() => { 
-//     haed()
-// })
-
 const haed = () =>{
     console.log('seconde..')
 }
