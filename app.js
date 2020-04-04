@@ -1,5 +1,3 @@
-console.log('nodejs...')
-
 function promise() {
     const flag = false
     return flag
@@ -15,3 +13,4 @@ if(promise()) {
 }else {
     head()
 }
+
