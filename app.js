@@ -4,7 +4,7 @@ function promise() {
 }
 
 const haed = () =>{
-    console.log('seconde..')
+    console.log('second.')
 }
 if(promise()) {
     setTimeout(() => {
